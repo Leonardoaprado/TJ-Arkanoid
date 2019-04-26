@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class jogador : MonoBehaviour
 {
-    public float velocidade = 50.0f;
+    public float velocidade = 10.0f;
 
     public float horizontalAxis;
 
